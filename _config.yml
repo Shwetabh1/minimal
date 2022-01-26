@@ -1,6 +1,17 @@
 title: Shwetabh Shekhar
 logo: /assets/img/shwetabh.png
-description: Senior Software Development Engineer @ Razorpay.
+description:
+  <p align="center">
+    <a href="pdf/resume.pdf">Resume</a> |
+    <a href="https://www.linkedin.com/in/shwetabh1/">LinkedIn</a> |
+    <a href="https://github.com/Shwetabh1/">GitHub</a>
+  <br>
+  Senior Software Development Engineer based in Bengaluru.
+  I have a backend development experience of 5 years.
+  I love to create large-scale, distributed web/cloud applications with a particular passion for Go, Python, Java, JavaScript, Node.js, and AWS(dozens of services).
+  </br>
+  </p>
+
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
