@@ -2,81 +2,51 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Work Experience
 
-There should be whitespace between paragraphs.
+## Razorpay
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+* Currently working as a backend engineer contributing towards various features related to payments
+* * *
+## Aruba Networks
+*   Built Serverless Services to provision, manage, and onboard Things (BLE devices) from scratch.
+*   Designed and developed multiple libraries, DynamoDB TableSchemas, SQL Schemas, and APIs.
+*   Key contributor in developing features related to DynamoDB streams and WebSocket subscription.
+*   Championed the effort to reduce AWS costs.
+*   Contributed to the creation of AppStore to be used by third-party app developers to deploy their applications.
+*   Reduced dashboard loading time by improving API performance by 60%.
 
 * * *
+## Nextgen Healthcare
 
-### Here is an unordered list:
+*  Created custom dashboard to display various metrics.
+*  Developed feature to import 100,000+ patient records.
+*  Designed and developed EJS templates for health data reporting.
+*  Designed and developed new module to parse and build the EJS and generate PDF files.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+* * *
+## Software Developer Intern
 
-### And an ordered list:
+*  Worked with social share team for various features on share UX improvements.
+*  Designed and developed a configuration-driven method to
+generate open graph meta tags.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+# Skills
 
-### And a nested list:
+| Skillset     | Strength          | 
+|:-------------|:------------------|
+| Python       | Expert            | 
+| Java         | Intermediate      |
+| GO           | Beginner          | 
+| PHP          | Beginner          | 
+| Kubernetes   | Intermediate      |
+| JavaScript   | Intermediate      | 
+| SQL          | Expert            | 
+| NOSQL        | Intermediate      |
+| AWS          | Expert            | 
+
+<!-- ### And a nested list:
 
 - level 1 item
   - level 2 item
@@ -90,34 +60,24 @@ end
 - level 1 item
   - level 2 item
   - level 2 item
-- level 1 item
+- level 1 item -->
 
-### Small image
+<!-- ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://guides.github.com/activities/hello-world/branching.png) -->
 
 
 ### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Shwetabh Shekhar</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1995</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dd>Patna, India</dd>
 </dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
