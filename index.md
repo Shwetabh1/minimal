@@ -16,22 +16,24 @@ layout: default
 | NOSQL        | Intermediate      |
 | AWS          | Expert            | 
 
-* * *
 
 # Work Experience
 
-## Projects on Github
+## Projects on Github | 2014 - Present
 #### AWS Developer Associate Certification
 This a complete guide for achieving AWS certified developer mettle. It comprises of notes, lab works, exam break down, essential tips and probable questions that could be asked.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Shwetabh1/AWS_Certification)
 
-<center><img src="https://github.com/Shwetabh1/AWS_Certification/blob/master/Images/aws_cert.png"/></center>
+#### Generate and Convert Huge DataSets
+There are two parts to this repository. Generation and Conversion. You can easily generate huge amounts of CSV and JSON dataset by modifying the program to fit your schema.
 
-## Razorpay
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Shwetabh1/Generate-Convert-Huge-Dataset-JSON-CSV)
+
+## Razorpay | Jan 2022 - Present
 * Currently working as a backend engineer contributing towards various features related to payments
 
-## Aruba Networks
+## Aruba Networks | Nov 2019 - Jan 2022
 *   Built Serverless Services to provision, manage, and onboard Things (BLE devices) from scratch.
 *   Designed and developed multiple libraries, DynamoDB TableSchemas, SQL Schemas, and APIs.
 *   Key contributor in developing features related to DynamoDB streams and WebSocket subscription.
@@ -39,16 +41,15 @@ This a complete guide for achieving AWS certified developer mettle. It comprises
 *   Contributed to the creation of AppStore to be used by third-party app developers to deploy their applications.
 *   Reduced dashboard loading time by improving API performance by 60%.
 
-## Nextgen Healthcare
+## Nextgen Healthcare | Aug 2017 - Oct 2019
 *  Created custom dashboard to display various metrics.
 *  Developed feature to import 100,000+ patient records.
 *  Designed and developed EJS templates for health data reporting.
 *  Designed and developed new module to parse and build the EJS and generate PDF files.
 
-## Software Developer Intern
+## Software Developer Intern | Jan 2017 - Jul 2017
 *  Worked with social share team for various features on share UX improvements.
-*  Designed and developed a configuration-driven method to
-generate open graph meta tags.
+*  Designed and developed a configuration-driven method to generate open graph meta tags.
 
 
 
