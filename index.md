@@ -6,30 +6,27 @@ layout: default
 
 | Skillset     | Strength          | 
 |:-------------|:------------------|
-| Python       | Expert            | 
-| Java         | Intermediate      |
-| GO           | Beginner          | 
-| PHP          | Beginner          | 
-| Kubernetes   | Intermediate      |
-| JavaScript   | Intermediate      | 
-| SQL          | Expert            | 
-| NOSQL        | Intermediate      |
-| AWS          | Expert            | 
+| Python       | ★★★★☆             | 
+| Java         | ★★★☆☆             |
+| Go           | ★★☆☆☆             | 
+| PHP          | ★★☆☆☆             | 
+| JavaScript   | ★★★☆☆             |
+| Kubernetes   | ★★★★☆             | 
+| SQL & NOSQL  | ★★★★☆             | 
+| AWS          | ★★★★☆             |
+| ML & AI      | ★★☆☆☆             | 
 
 
-# Work Experience
-
-## Projects on Github | 2014 - Present
+## Projects on Github | 2015 - Present
 #### AWS Developer Associate Certification
 This a complete guide for achieving AWS certified developer mettle. It comprises of notes, lab works, exam break down, essential tips and probable questions that could be asked.
-
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Shwetabh1/AWS_Certification)
 
 #### Generate and Convert Huge DataSets
 There are two parts to this repository. Generation and Conversion. You can easily generate huge amounts of CSV and JSON dataset by modifying the program to fit your schema.
-
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Shwetabh1/Generate-Convert-Huge-Dataset-JSON-CSV)
 
+# Work Experience
 ## Razorpay | Jan 2022 - Present
 * Currently working as a backend engineer contributing towards various features related to payments
 
@@ -80,6 +77,8 @@ There are two parts to this repository. Generation and Conversion. You can easil
 <dl>
 <dt>Name</dt>
 <dd>Shwetabh Shekhar</dd>
+<dt>Email</dt>
+<dd>shwetabh[@]shekhar.us</dd>
 <dt>Born</dt>
 <dd>1995</dd>
 <dt>Birthplace</dt>
