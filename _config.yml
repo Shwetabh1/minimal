@@ -1,16 +1,17 @@
 title: Shwetabh Shekhar
 logo: /assets/img/shwetabh.png
 description:
-  <p align="left">
+  <p align="center">
     <a href="https://drive.google.com/file/d/1tjcnCgrda7F9iMEo2eQiMi7AxYl9IWQh/view?usp=sharing">Resume</a> |
     LinkedIn |
     <a href="https://github.com/Shwetabh1/">GitHub</a>
-  <br>
+  </p>
+  <p align="left">
   Senior Software Development Engineer based in Bengaluru. <br>
   I have a backend development experience of 5 years. <br>
   I love to create large-scale, distributed web/cloud applications with a particular passion for Go, Python, Java, JavaScript, Node.js, and AWS(dozens of services).<br>
   </br>
   </p>
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
